@@ -1,0 +1,103 @@
+{
+  "roles": [
+    {
+      "name": "Server Owner",
+      "color": "#FFD700",
+      "hoist": true,
+      "permissions": [
+        "administrator"
+      ]
+    },
+    {
+      "name": "Head Admin",
+      "color": "#FF4444",
+      "hoist": true,
+      "permissions": [
+        "manage_channels",
+        "manage_roles",
+        "kick_members",
+        "ban_members",
+        "manage_messages"
+      ]
+    },
+    {
+      "name": "Administrator",
+      "color": "#FF6666",
+      "hoist": true,
+      "permissions": [
+        "manage_channels",
+        "kick_members",
+        "ban_members",
+        "manage_messages"
+      ]
+    },
+    {
+      "name": "Moderator",
+      "color": "#FFAA00",
+      "hoist": true,
+      "permissions": [
+        "manage_messages",
+        "kick_members"
+      ]
+    },
+    {
+      "name": "Police Chief",
+      "color": "#0066CC",
+      "hoist": true,
+      "permissions": [
+        "manage_channels",
+        "manage_messages"
+      ]
+    },
+    {
+      "name": "Highway Patrol",
+      "color": "#0099FF",
+      "hoist": true
+    },
+    {
+      "name": "City Police",
+      "color": "#00AAFF",
+      "hoist": true
+    },
+    {
+      "name": "SWAT",
+      "color": "#004488",
+      "hoist": true
+    },
+    {
+      "name": "K9 Unit",
+      "color": "#00BBCC",
+      "hoist": true
+    },
+    {
+      "name": "Air Support",
+      "color": "#0077AA",
+      "hoist": true
+    },
+    {
+      "name": "Dispatcher",
+      "color": "#FF8800",
+      "hoist": true
+    },
+    {
+      "name": "EMS",
+      "color": "#FF0000",
+      "hoist": true
+    },
+    {
+      "name": "Fire Department",
+      "color": "#FF6600",
+      "hoist": true
+    },
+    {
+      "name": "Verified",
+      "color": "#00FF00",
+      "hoist": false
+    },
+    {
+      "name": "Member",
+      "color": "#99AAFF",
+      "hoist": false
+    }
+  ]
+}

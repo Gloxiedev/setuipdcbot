@@ -1,0 +1,100 @@
+
+
+{
+  "categories": [
+    {
+      "name": "🟦 SERVER HUB",
+      "channels": [
+        {"name": "📌┃welcome","description":"Entry point for new members; automatic welcome messages.","type":"text"},
+        {"name": "📜┃rules","description":"All server regulations and conduct guidelines.","type":"text"},
+        {"name": "📣┃announcements","description":"Major server-wide announcements and updates.","type":"text"},
+        {"name": "📰┃updates","description":"Minor updates, changes, and notices.","type":"text"},
+        {"name": "ℹ️┃server-info","description":"Overview of the server, roles, and features.","type":"text"},
+        {"name": "❓┃faq","description":"Frequently asked questions and answers.","type":"text"},
+        {"name": "🎫┃support","description":"Members can request support here.","type":"text"},
+        {"name": "🧾┃tickets","description":"Hub for ticket creation and management.","type":"text"}
+      ]
+    },
+    {
+      "name": "🟩 DOCUMENTATION",
+      "channels": [
+        {"name": "📚┃department-info","description":"Overview of each department and its responsibilities.","type":"text"},
+        {"name": "🚨┃radio-10-codes","description":"Official radio communication codes for RP.","type":"text"},
+        {"name": "⚖️┃penal-code","description":"Laws, offenses, and penalties for roleplay.","type":"text"},
+        {"name": "👮┃uniforms-loadouts","description":"Required uniforms & issued gear for officers.","type":"text"},
+        {"name": "🚔┃vehicle-info","description":"Approved vehicles, usage rules, and restrictions.","type":"text"},
+        {"name": "📘┃patrol-guide","description":"Best practices and procedures for patrol units.","type":"text"}
+      ]
+    },
+    {
+      "name": "🟨 TRAINING",
+      "channels": [
+        {"name": "📅┃training-schedule","description":"Calendar of all upcoming training sessions.","type":"text"},
+        {"name": "📝┃training-logs","description":"Records of completed trainings.","type":"text"},
+        {"name": "🎖️┃certifications","description":"Log of all earned training certifications.","type":"text"}
+      ]
+    },
+    {
+      "name": "🔵 DISPATCH & OPERATIONS",
+      "channels": [
+        {"name": "📡┃dispatch","description":"Central hub for real-time unit direction.","type":"text"},
+        {"name": "🚨┃active-calls","description":"Listing of ongoing calls and incidents.","type":"text"},
+        {"name": "👀┃bolo","description":"Be On Lookout notices for suspects or vehicles.","type":"text"},
+        {"name": "📂┃warrants","description":"Active, pending, and completed warrants.","type":"text"},
+        {"name": "🧾┃incident-reports","description":"Documentation of non-arrest incidents.","type":"text"},
+        {"name": "🎫┃traffic-stops","description":"Logs of all traffic stop interactions.","type":"text"},
+        {"name": "📑┃citations","description":"Issued citations and related violation details.","type":"text"},
+        {"name": "🛄┃evidence-locker","description":"Secure documentation for evidence handling.","type":"text"},
+        {"name": "🟢┃unit-status","description":"Units report statuses (10-8, 10-7, etc.).","type":"text"}
+      ]
+    },
+    {
+      "name": "🟣 CASE WORK",
+      "channels": [
+        {"name": "🗂️┃arrest-reports","description":"Detailed records of arrests made.","type":"text"},
+        {"name": "🧪┃forensic-logs","description":"Forensic findings, tests, and analysis.","type":"text"},
+        {"name": "⚖️┃court-documents","description":"Legal case files and court-related notes.","type":"text"}
+      ]
+    },
+    {
+      "name": "🟩 COMMUNITY",
+      "channels": [
+        {"name": "💬┃general-chat","description":"Main area for member discussions.","type":"text"},
+        {"name": "📸┃media","description":"Photos, videos, and general media sharing.","type":"text"},
+        {"name": "🤣┃memes","description":"Humor, jokes, and meme posts.","type":"text"},
+        {"name": "👋┃introductions","description":"New members introduce themselves.","type":"text"},
+        {"name": "🎮┃gaming-chat","description":"Gaming discussions, LFG, and team-ups.","type":"text"}
+      ]
+    },
+    {
+      "name": "🔈 VOICE",
+      "channels": [
+        {"name": "🔊┃general-vc","description":"Main public voice chat.","type":"voice"},
+        {"name": "🎧┃chill-vc","description":"Relaxed, casual talk.","type":"voice"},
+        {"name": "🎵┃music-vc","description":"Listening to music together.","type":"voice"}
+      ]
+    },
+    {
+      "name": "🔴 STAFF",
+      "channels": [
+        {"name": "🛠️┃staff-chat","description":"Internal communication for staff.","type":"text"},
+        {"name": "📢┃staff-announcements","description":"Staff-only announcements and updates.","type":"text"},
+        {"name": "📋┃mod-logs","description":"Logs of all moderation actions.","type":"text"},
+        {"name": "🗃️┃punishment-logs","description":"Records of issued punishments.","type":"text"},
+        {"name": "📥┃message-logs","description":"Edited and deleted message logs.","type":"text"},
+        {"name": "📟┃bot-logs","description":"Bot activity and debugging logs.","type":"text"},
+        {"name": "🧪┃testing-zone","description":"Area for testing commands and features.","type":"text"}
+      ]
+    },
+    {
+      "name": "🟠 DIVISIONS",
+      "channels": [
+        {"name": "🚓┃highway-patrol","description":"Coordination and resources for highway unit.","type":"text"},
+        {"name": "🚔┃city-police","description":"City enforcement division area.","type":"text"},
+        {"name": "🛡️┃swat","description":"Tactical operations division hub.","type":"text"},
+        {"name": "🐾┃k9-unit","description":"K9 team logs and operational documentation.","type":"text"},
+        {"name": "🚁┃air-support","description":"Air unit coordination and mission info.","type":"text"}
+      ]
+    }
+  ]
+}
