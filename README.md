@@ -48,8 +48,8 @@ project/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Gloxiedev/discord-builder-with-channels-and-roles.git
-cd discord-builder-with-channels-and-roles
+git clone https://github.com/Gloxiedev/setuipdcbot.git
+cd setuipdcbot
 ```
 
 ### 2. Install dependencies
@@ -158,16 +158,6 @@ Describes roles the bot should create.
 
 ---
 
-## 🤝 Contributing
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit changes with clear messages.
-4. Submit a pull request with a description and testing notes.
-
-Suggestions for new templates or quality-of-life improvements are always welcome.
-
----
 
 ## 📜 License
 
